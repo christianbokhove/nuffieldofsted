@@ -1,4 +1,9 @@
 # nuffieldofsted
+
+## **Note that not all code has been cleaned up yet** ##
+
+## **If you want to use code and have questions and/or issues please contact me** ##
+
 Scripts and links to data for the Nuffield project 'Inspecting the Inspectorate'.
 
 If links do not work, please contact me, this might be because of hosting restrictions.
